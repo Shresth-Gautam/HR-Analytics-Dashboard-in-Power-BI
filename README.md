@@ -19,14 +19,6 @@ This repository contains a **complete end-to-end Power BI project** on **HR Anal
 
 ---
 
-## 📂 Project Structure  
-
-```plaintext
-|-- data/                     # HR dataset (CSV/Excel)
-|-- pbix/                     # Power BI project file
-|-- screenshots/              # Dashboard screenshots
-|-- README.md                 # Project documentation
-
 ## 💡 Key Insights from Dashboard  
 
 - 📉 **Attrition Analysis** – Percentage of employees leaving by age, gender, and department  
@@ -39,9 +31,16 @@ This repository contains a **complete end-to-end Power BI project** on **HR Anal
 ---
 
 ## 🛠 Tools & Technologies  
-
 - **Power BI Desktop**  
 - **Power Query** (ETL & Data Cleaning)  
 - **DAX** (Data Analysis Expressions)  
+- **Excel / CSV** (as HR dataset source)  
+## 📂 Project Structure  
+
+```plaintext
+|-- data/                     # HR dataset (CSV/Excel)
+|-- pbix/                     # Power BI project file
+|-- screenshots/              # Dashboard screenshots
+|-- README.md                 # Project documentation
 - **Excel / CSV** (as HR dataset source)  
 
