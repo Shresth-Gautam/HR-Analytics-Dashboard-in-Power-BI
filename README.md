@@ -1,5 +1,4 @@
 # HR-Analytics-Dashboard-in-Power-BI
-# 👥 HR Analytics Dashboard – Complete Power BI Project  
 
 This repository contains a **complete end-to-end Power BI project** on **HR Analytics**, showcasing how to transform raw HR data into actionable insights for workforce management. The project covers the full pipeline — from importing and cleaning HR data to creating an interactive Power BI dashboard.  
 
