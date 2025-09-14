@@ -26,3 +26,22 @@ This repository contains a **complete end-to-end Power BI project** on **HR Anal
 |-- pbix/                     # Power BI project file
 |-- screenshots/              # Dashboard screenshots
 |-- README.md                 # Project documentation
+
+## 💡 Key Insights from Dashboard  
+
+- 📉 **Attrition Analysis** – Percentage of employees leaving by age, gender, and department  
+- 👥 **Demographics** – Employee distribution by gender, education, and job role  
+- 💼 **Workforce Structure** – Number of employees across departments and job roles  
+- ⏳ **Tenure Analysis** – Average years at company and time since last promotion  
+- 💰 **Compensation Insights** – Salary distribution across departments and roles  
+- 📊 **Performance Metrics** – Identify patterns in attrition linked to satisfaction and workload  
+
+---
+
+## 🛠 Tools & Technologies  
+
+- **Power BI Desktop**  
+- **Power Query** (ETL & Data Cleaning)  
+- **DAX** (Data Analysis Expressions)  
+- **Excel / CSV** (as HR dataset source)  
+
