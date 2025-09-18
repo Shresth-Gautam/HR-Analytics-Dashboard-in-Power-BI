@@ -1,46 +1,71 @@
-# HR-Analytics-Dashboard-in-Power-BI
+📊 HR Analytics Dashboard – Power BI
 
-This repository contains a **complete end-to-end Power BI project** on **HR Analytics**, showcasing how to transform raw HR data into actionable insights for workforce management. The project covers the full pipeline — from importing and cleaning HR data to creating an interactive Power BI dashboard.  
+📊 End-to-End HR Analytics Dashboard in Power BI – featuring workforce insights, attrition analysis, and interactive data storytelling.
 
----
+This repository contains a complete HR Analytics project in Power BI, transforming raw HR data into an interactive dashboard with actionable workforce insights. The project demonstrates how to handle HR data end-to-end, from import and cleaning to modeling, DAX measures, and visualization.
 
-## 🚀 Topics Covered  
+🚀 Project Workflow
 
-- 🔹 **Import Data in Power BI** – Load HR dataset (CSV/Excel) into Power BI Desktop  
-- 🔹 **Data Cleaning & Processing** – Handle nulls, duplicates, and inconsistent data using **Power Query**  
-- 🔹 **Data Modeling** – Create relationships and optimize the data model  
-- 🔹 **DAX in Power BI** – Build calculated columns & measures (Attrition Rate, Avg Age, Avg Salary, etc.)  
-- 🔹 **Measures & Calculations** – Workforce KPIs (Employee Count, Gender Ratio, Years at Company, Promotion Rate)  
-- 🔹 **Charts & Visuals** – Bar charts, Line charts, Donut charts, TreeMaps, KPIs  
-- 🔹 **Filters & Slicers** – Interactive filtering (Department, Job Role, Education, Gender, etc.)  
-- 🔹 **Dashboard Setup** – Combine visuals into a professional HR Analytics dashboard  
-- 🔹 **Export Dashboard** – Export to PDF/PowerPoint and publish to Power BI Service  
-- 🔹 **Insights & Storytelling** – Derive key HR insights like attrition patterns, workforce demographics, and performance trends  
+📥 Data Import – Load HR dataset (Excel/CSV) into Power BI
 
----
+🧹 Data Cleaning – Remove nulls, duplicates, and inconsistencies using Power Query
 
-## 💡 Key Insights from Dashboard  
+🔗 Data Modeling – Create relationships and optimize the schema for analysis
 
-- 📉 **Attrition Analysis** – Percentage of employees leaving by age, gender, and department  
-- 👥 **Demographics** – Employee distribution by gender, education, and job role  
-- 💼 **Workforce Structure** – Number of employees across departments and job roles  
-- ⏳ **Tenure Analysis** – Average years at company and time since last promotion  
-- 💰 **Compensation Insights** – Salary distribution across departments and roles  
-- 📊 **Performance Metrics** – Identify patterns in attrition linked to satisfaction and workload  
+📐 DAX Measures – Build KPIs like Attrition Rate, Avg Age, Avg Salary, and Avg Years at Company
 
----
+📊 Visualizations – Design charts (bar, line, donut, KPIs) for deeper insights
 
-## 🛠 Tools & Technologies  
-- **Power BI Desktop**  
-- **Power Query** (ETL & Data Cleaning)  
-- **DAX** (Data Analysis Expressions)  
-- **Excel / CSV** (as HR dataset source)  
-## 📂 Project Structure  
+🎛 Slicers & Filters – Enable filtering by Department, Education, Gender, Job Role, etc.
 
-```plaintext
-|-- data/                     # HR dataset (CSV/Excel)
-|-- pbix/                     # Power BI project file
-|-- screenshots/              # Dashboard screenshots
-|-- README.md                 # Project documentation
-- **Excel / CSV** (as HR dataset source)  
+🖥 Dashboard Design – Combine visuals into a professional HR Analytics dashboard
 
+📂 Dashboard Insights
+
+✅ Employee Overview – Total Employees (1413), Attrition (210), Attrition Rate (14.9%)
+✅ Attrition by Demographics – Age, Gender, Education background
+✅ Attrition by Salary – Higher attrition in lower salary slabs
+✅ Job Role Trends – Top attrition in Sales Executive, Lab Technician, and Research Scientist roles
+✅ Tenure Analysis – Attrition patterns by years at the company
+✅ Department-Wise Filtering – Human Resources, R&D, and Sales breakdown
+
+📸 Dashboard Preview
+
+Main HR Analytics Dashboard
+
+
+Key Highlights:
+
+Attrition by Age & Gender
+
+Attrition by Education & Salary Slab
+
+Attrition by Job Role & Tenure
+
+KPI Cards: Employee Count, Attrition, Avg Age, Avg Salary, Avg Years
+
+🛠 Tools & Technologies
+
+Power BI Desktop
+
+Power Query (Data Cleaning & Transformation)
+
+DAX (Data Analysis Expressions)
+
+Excel / CSV (HR dataset source)
+
+📂 Repository Structure
+|-- data/              # HR dataset (Excel/CSV)  
+|-- pbix/              # Power BI project file  
+|-- screenshots/       # Dashboard screenshots  
+|-- README.md          # Project documentation  
+
+💡 Business Value
+
+Identify high-risk attrition groups (age, role, salary slab)
+
+Support HR in strategic decision-making for retention
+
+Optimize workforce planning with data-driven insights
+
+👉 This dashboard helps HR professionals track attrition trends, workforce demographics, and job role patterns effectively.
